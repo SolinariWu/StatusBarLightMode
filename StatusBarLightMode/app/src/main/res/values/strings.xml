@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StatusBarLightMode</string>
+    <string name="btnText">Change Status Bar Mode</string>
+</resources>
